@@ -1,0 +1,14 @@
+public class Multiplication{
+        public static void main (String [] args){
+              int num = 12;
+              int i = 1;
+              int sum = 0;
+	            int x = 4;
+          for (i = 1; i<=num; i++){
+                sum = x*i;
+                
+               System.out.println (x + " x " + i +" = " + sum);
+               }
+       
+        }
+}
